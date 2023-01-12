@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm thirunal kumarnal kumar</h1>
+<h1 align="center">Hi 👋, I'm thirunal kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thirunal&label=Profile%20views&color=0e75b6&style=flat" alt="thirunal" /> </p>
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thirunalkumar121@gamil.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:6381681334</h3>
 <p align="left">
 </p>
 
