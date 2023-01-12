@@ -1,189 +1,23 @@
-thirunal Portfolio
+<h1 align="center">Hi 👋, I'm thirunal kumarnal kumar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-# sidebar
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thirunal&label=Profile%20views&color=0e75b6&style=flat" alt="thirunal" /> </p>
 
-alt = Thirunal kumar.M
-Thirunal kumar.M
-Web developer
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Show Contacts
+- 🌱 I’m currently learning **react**
 
-Email
-thirunalkumar12@gmail.com
+- 📫 How to reach me **thirunalkumar121@gamil.com**
 
-Phone
-+91 (638) 168-1334
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Birthday
-Mar 30, 2004
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-Location
-Manamadurai, Tamilnadu, INDAI
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thirunal&show_icons=true&locale=en&layout=compact" alt="thirunal" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thirunal&show_icons=true&locale=en" alt="thirunal" /></p>
 
-####social-link
-whatsapp
-instagram
-facebook
-twitter
-snapchat
-linkedin
-
-# navbar
-
-About
-My photo
-
-Resume
-Contact
-
-###### about
-
-About me
-
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
-
-## service
-
- What i'm doing
-
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
-
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
-
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
-
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
-
-## Team
-
-alt = Sabarish kumar
-Sabarish kumar
-UI&UX Designer and etc.
-
-alt = Senthil kumar
-Senthil kumar
- fornt end development and etc.
-                      
-alt = prasanna kumar
-prasanna kumar
-back and development  and detabase etc.
-                     
-
-##my photo
-
-alt = photo
-
-
-############ resume
-
-Resume
-
-Education
-
-Alagappa University
-2022 — 2025
-B.A History.
-
-Tamilnadu Government Polytechnic college 
-2022 — 2024
-Computer Science engineering Diploma.
-
-O.V.C HR SEC school 
-2019 — 2021
-Pure Science.
-
-My Using Software
-
-Web Designing
-2022 — Present
-Adobe indesign, Figma, Adobe Photohop.
-
-Web Development
-2019 — 2023
-Html, Css, Java, Javascript, Bootstrap, Python, React.js, JQuery, Php, .
-
-Video Editing
-2019 — 2022
-Adobe Premiere Pro, Adobe After Affects, Filmora.
-
-My skills
-
-Web design
-80%
-Video Editing
-70%
-Web development
-90%
-Digital Marketing
-50%
-
-# portfolio
-
-Portfolio
-
-All
-Web design
-Applications
-Web development
-
-Select category
-All
-Web design
-Applications
-Web development
-
-alt = World Traval Market
-World Traval Market
-Web development
-
-alt = Function Celebration
-Function Celebration
-Web design
-
-alt = Game Boost
-Game Boost
-Applications
-
-alt = Agriculture Improvement
-Agriculture Improvement
-Web design
-
-
-
-
-
-# design
-
-design
-
-alt = Combat Heavy Helmet
-Design
-Jan 01, 2023
-Combat Heavy Helmet
-
-
-##### contact
-
-Contact
-
-Contact Form
-
- Map
-
-Full name
-Email address
-Your Message
-
-Send Message
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thirunal&" alt="thirunal" /></p>
