@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **thirunalkumar121@gamil.com**
 
-<h3 align="left">Connect with me:6381681334</h3>
+
 <p align="left">
 </p>
 
