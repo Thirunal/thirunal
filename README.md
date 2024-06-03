@@ -6,8 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
-- 🌱 I’m currently learning **Apps & Website development**
+- 🌱 I’m currently learning **Rect Js**
+- 🌱 I’m currently learning **Website development**
 
 - 📫 How to reach me **< thirunalkumar121@gamil.com >**
 
